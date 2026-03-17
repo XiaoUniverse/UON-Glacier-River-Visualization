@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Sea Ice & Ocean Wave 3D Flexural-Gravity Wave Simulation
 
 **海冰与海洋波浪三维交互模拟**
